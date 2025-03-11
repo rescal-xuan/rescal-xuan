@@ -6,5 +6,15 @@
   </a>
   </h1>
   # Hi,there is Zhangzixuan 👋
+  
 - A student from China.🇨🇳
 
+
+<a href="https://rescal-xuan.github.io/">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=rescal-xuan&row=1&column=4"/>
+</a>
+
+
+<a href="https://rescal-xuan.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rescal-xuan&hide=contribs"/>
+</a>
